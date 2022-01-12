@@ -3,3 +3,6 @@
 - almond butter
 - bananas
 - protein powder
+- eggs 
+- hamburger buns
+- ketchup
