@@ -2,4 +2,4 @@
 - bluberries
 - almond butter
 - bananas
-protein powder
+- protein powder
